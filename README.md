@@ -35,6 +35,9 @@ The above code was tested and run on Intel® Core™ i5-8250U CPU @ 1.60GHz × 8
 
 ## SAMPLE IMAGE WHILE USING ALGORITHM 
 
+![image2](https://user-images.githubusercontent.com/50697244/61187039-4f70c900-a68a-11e9-974d-9ba45d0ecc90.png)
+
+
 
 
 
