@@ -1,6 +1,6 @@
 # CURSOR-CONTROL-USING-FACE-GESTURES
 
-# OVERVIEW
+## OVERVIEW
 
 Computer Vision is used for catering the needs of the users who are invalid in the sense that they are not able to perform basic operations on the computer such as the use of mouse. Without the use of any physical help, the user can now be able to use the mouse using simple facial gestures such as blinking. Blinking of left or right eye will initiate a left or right click respectively.
 
@@ -20,7 +20,7 @@ For moving the mouse cursor across the screen, the user must move the nose out o
 
 The above code was tested and run on Intel® Core™ i5-8250U CPU @ 1.60GHz × 8. All the code was written on gedit file in Ubuntu version 18.04.02 LTS
 
-# REQUIREMENTS
+## REQUIREMENTS
 numpy==1.16.4 
 scipy==1.3.0 
 matplotlib==3.1.0 
