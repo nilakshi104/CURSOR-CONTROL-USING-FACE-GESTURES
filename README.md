@@ -29,7 +29,11 @@ The above code was tested and run on Intel® Core™ i5-8250U CPU @ 1.60GHz × 8
 * opencv-python==4.1.0
 * pyautogui==0.9.4
 
-## SAMPLE IMAGE FOR CALIBRATION
+## SAMPLE IMAGE DURING CALIBRATION
+
+![image1](https://user-images.githubusercontent.com/50697244/61187022-f1dc7c80-a689-11e9-8e4f-c91bf16dfacf.png)
+
+## SAMPLE IMAGE WHILE USING ALGORITHM 
 
 
 
