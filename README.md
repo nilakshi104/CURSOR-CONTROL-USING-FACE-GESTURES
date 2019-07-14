@@ -21,13 +21,16 @@ For moving the mouse cursor across the screen, the user must move the nose out o
 The above code was tested and run on Intel® Core™ i5-8250U CPU @ 1.60GHz × 8. All the code was written on gedit file in Ubuntu version 18.04.02 LTS
 
 ## REQUIREMENTS
-numpy==1.16.4 
-scipy==1.3.0 
-matplotlib==3.1.0 
-dlib==19.17.0 
-imutils==0.5.2 
-opencv-python==4.1.0
-pyautogui==0.9.4
+* numpy==1.16.4 
+* scipy==1.3.0 
+* matplotlib==3.1.0 
+* dlib==19.17.0 
+* imutils==0.5.2 
+* opencv-python==4.1.0
+* pyautogui==0.9.4
+
+## SAMPLE IMAGE FOR CALIBRATION
+
 
 
 
