@@ -43,11 +43,12 @@ Here user is going to select option from drop down menu.The black window will sh
 [Video_On_GoogleDrive](https://drive.google.com/file/d/1VU5pctXON-NsvULlY1GlcKG_zVksxDda/view?usp=sharing)
 
 ## TEAM MEMBERS
-1.ARIHANT GAUR
-2.NILAKSHI REKHAWAR
-3.AKSHATA KINAGE
-4.SHUBHAN RUKUMANGAD
+* 1.ARIHANT GAUR
+* 2.NILAKSHI REKHAWAR
+* 3.AKSHATA KINAGE
+* 4.SHUBHAN RUKUMANGAD
 
-
-
-
+## MENTORS
+* 1.Rohit Lal
+* 2.Shubham Chauhan
+* 3.Abhay Khandelwal
