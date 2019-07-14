@@ -37,7 +37,16 @@ The above code was tested and run on Intel® Core™ i5-8250U CPU @ 1.60GHz × 8
 
 ![image2](https://user-images.githubusercontent.com/50697244/61187039-4f70c900-a68a-11e9-974d-9ba45d0ecc90.png)
 
+Here user is going to select option from drop down menu.The black window will show the current frames per second and shows whatever action we are doing, for example, moving the mouse, left click, right click and also shows whether the scroll mode is on or not.
 
+#### HOW CODE WORKS?
+[Video_On_GoogleDrive](https://drive.google.com/file/d/1VU5pctXON-NsvULlY1GlcKG_zVksxDda/view?usp=sharing)
+
+## TEAM MEMBERS
+1.ARIHANT GAUR
+2.NILAKSHI REKHAWAR
+3.AKSHATA KINAGE
+4.SHUBHAN RUKUMANGAD
 
 
 
