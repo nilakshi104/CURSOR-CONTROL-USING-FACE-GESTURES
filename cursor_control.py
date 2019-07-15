@@ -34,7 +34,7 @@ def AREA(point1,point2,point3,point4,point5,point6):
 
 #mouse = Controller()
 # Right eye: 37 to 42, Left Eye: 43 to 48
-p = "shape_predictor.dat"
+p = "shape_predictor_68_face_landmarks.dat"
 detector = dlib.get_frontal_face_detector() # Returns a default face detector object
 predictor = dlib.shape_predictor(p) # Outputs a set of location points that define a pose of the object. (Here, pose of the human face)
 cap = cv2.VideoCapture(0)
